@@ -159,7 +159,7 @@ export function Hero() {
               >
                 {/* Image: slow ken-burns + gentle duotone wash. No blur. */}
                 <img
-                  src="../public/chirag/001.jpeg"
+                  src="/chirag/001.jpeg"
                   alt="Chirag Kaliya, cinematographer"
                   className="absolute inset-0 h-full w-full object-cover will-change-transform origin-top"
                   style={{
